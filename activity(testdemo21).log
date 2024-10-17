@@ -1,0 +1,144 @@
+2024/09/20 11:15:53 Process 4496 is using 15.625% CPU, current affinity mask: 0010
+2024/09/20 11:15:53 Process 4496 is using 15.625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:15:53 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:15:53 Process 4516 is using 17.96875% CPU, current affinity mask: 1000
+2024/09/20 11:15:53 Process 4516 is using 17.96875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:15:54 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:15:54 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:15:54 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:15:54 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:15:54 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:15:58 Process 4496 is using 18.75% CPU, current affinity mask: 0100
+2024/09/20 11:15:58 Process 4496 is using 18.75% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:15:58 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:15:58 Process 4516 is using 18.75% CPU, current affinity mask: 1000
+2024/09/20 11:15:58 Process 4516 is using 18.75% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:15:58 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:15:58 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:15:58 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:15:58 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:15:58 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:02 Process 4496 is using 14.0625% CPU, current affinity mask: 0100
+2024/09/20 11:16:02 Process 4516 is using 18.75% CPU, current affinity mask: 1000
+2024/09/20 11:16:02 Process 4516 is using 18.75% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:02 Set CPU affinity for process 4516 to core 0.
+2024/09/20 11:16:02 Process 4496 is exceeding 80% on core 2, adjusting affinity.
+2024/09/20 11:16:02 Set CPU affinity for process 4496 to core 1.
+2024/09/20 11:16:02 Process 4516 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:02 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:06 Process 4496 is using 18.75% CPU, current affinity mask: 0010
+2024/09/20 11:16:06 Process 4496 is using 18.75% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:06 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:06 Process 4516 is using 14.0625% CPU, current affinity mask: 1000
+2024/09/20 11:16:06 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:06 Set CPU affinity for process 4496 to core 1.
+2024/09/20 11:16:06 Process 4516 is exceeding 80% on core 3, adjusting affinity.
+2024/09/20 11:16:06 Set CPU affinity for process 4516 to core 2.
+2024/09/20 11:16:10 Process 4496 is using 16.40625% CPU, current affinity mask: 0010
+2024/09/20 11:16:10 Process 4496 is using 16.40625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:10 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:10 Process 4516 is using 21.875% CPU, current affinity mask: 0100
+2024/09/20 11:16:10 Process 4516 is using 21.875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:10 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:10 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:10 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:10 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:10 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:14 Process 4496 is using 13.28125% CPU, current affinity mask: 0100
+2024/09/20 11:16:14 Process 4516 is using 15.625% CPU, current affinity mask: 1000
+2024/09/20 11:16:14 Process 4516 is using 15.625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:14 Set CPU affinity for process 4516 to core 0.
+2024/09/20 11:16:14 Process 4496 is exceeding 80% on core 2, adjusting affinity.
+2024/09/20 11:16:14 Set CPU affinity for process 4496 to core 1.
+2024/09/20 11:16:14 Process 4516 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:14 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:18 Process 4496 is using 17.1875% CPU, current affinity mask: 0010
+2024/09/20 11:16:18 Process 4496 is using 17.1875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:18 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:18 Process 4516 is using 18.75% CPU, current affinity mask: 1000
+2024/09/20 11:16:19 Process 4516 is using 18.75% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:19 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:19 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:19 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:19 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:19 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:23 Process 4496 is using 15.625% CPU, current affinity mask: 0100
+2024/09/20 11:16:23 Process 4496 is using 15.625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:23 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:23 Process 4516 is using 17.1875% CPU, current affinity mask: 1000
+2024/09/20 11:16:23 Process 4516 is using 17.1875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:23 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:23 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:23 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:23 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:23 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:27 Process 4496 is using 15.625% CPU, current affinity mask: 0100
+2024/09/20 11:16:27 Process 4496 is using 15.625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:27 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:27 Process 4516 is using 17.96875% CPU, current affinity mask: 1000
+2024/09/20 11:16:27 Process 4516 is using 17.96875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:27 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:27 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:27 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:27 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:27 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:31 Process 4496 is using 15.625% CPU, current affinity mask: 0100
+2024/09/20 11:16:31 Process 4496 is using 15.625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:31 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:31 Process 4516 is using 17.96875% CPU, current affinity mask: 1000
+2024/09/20 11:16:31 Process 4516 is using 17.96875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:31 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:31 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:31 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:31 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:31 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:35 Process 4496 is using 14.0625% CPU, current affinity mask: 0100
+2024/09/20 11:16:35 Process 4516 is using 14.84375% CPU, current affinity mask: 1000
+2024/09/20 11:16:35 Process 4496 is exceeding 80% on core 2, adjusting affinity.
+2024/09/20 11:16:35 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:35 Process 4516 is exceeding 80% on core 3, adjusting affinity.
+2024/09/20 11:16:35 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:39 Process 4496 is using 19.53125% CPU, current affinity mask: 0001
+2024/09/20 11:16:39 Process 4496 is using 19.53125% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:39 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:39 Process 4516 is using 17.1875% CPU, current affinity mask: 0010
+2024/09/20 11:16:39 Process 4516 is using 17.1875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:39 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:39 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:39 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:40 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:40 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:44 Process 4496 is using 17.96875% CPU, current affinity mask: 0100
+2024/09/20 11:16:44 Process 4496 is using 17.96875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:44 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:44 Process 4516 is using 17.1875% CPU, current affinity mask: 1000
+2024/09/20 11:16:44 Process 4516 is using 17.1875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:44 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:44 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:44 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:44 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:44 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:48 Process 4496 is using 11.71875% CPU, current affinity mask: 0100
+2024/09/20 11:16:48 Process 4516 is using 14.84375% CPU, current affinity mask: 1000
+2024/09/20 11:16:48 Process 4496 is exceeding 80% on core 2, adjusting affinity.
+2024/09/20 11:16:48 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:48 Process 4516 is exceeding 80% on core 3, adjusting affinity.
+2024/09/20 11:16:48 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:52 Process 4496 is using 16.40625% CPU, current affinity mask: 0001
+2024/09/20 11:16:52 Process 4496 is using 16.40625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:52 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:52 Process 4516 is using 22.65625% CPU, current affinity mask: 0010
+2024/09/20 11:16:52 Process 4516 is using 22.65625% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:52 Set CPU affinity for process 4516 to core 1.
+2024/09/20 11:16:52 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:52 Set CPU affinity for process 4496 to core 2.
+2024/09/20 11:16:52 Process 4516 is exceeding 80% on core 1, adjusting affinity.
+2024/09/20 11:16:52 Set CPU affinity for process 4516 to core 3.
+2024/09/20 11:16:56 Process 4496 is using 17.1875% CPU, current affinity mask: 0100
+2024/09/20 11:16:56 Process 4496 is using 17.1875% CPU, setting affinity to limit CPU usage.
+2024/09/20 11:16:56 Set CPU affinity for process 4496 to core 0.
+2024/09/20 11:16:56 Process 4516 is using 14.84375% CPU, current affinity mask: 1000
+2024/09/20 11:16:56 Process 4496 is exceeding 80% on core 0, adjusting affinity.
+2024/09/20 11:16:56 Set CPU affinity for process 4496 to core 1.
+2024/09/20 11:16:56 Process 4516 is exceeding 80% on core 3, adjusting affinity.
+2024/09/20 11:16:56 Set CPU affinity for process 4516 to core 2.
